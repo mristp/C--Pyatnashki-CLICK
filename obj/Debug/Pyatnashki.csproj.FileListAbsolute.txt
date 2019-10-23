@@ -1,0 +1,9 @@
+D:\w\c#\Pyatnashki\bin\Debug\Pyatnashki.exe.config
+D:\w\c#\Pyatnashki\bin\Debug\Pyatnashki.exe
+D:\w\c#\Pyatnashki\bin\Debug\Pyatnashki.pdb
+D:\w\c#\Pyatnashki\obj\Debug\Pyatnashki.csprojAssemblyReference.cache
+D:\w\c#\Pyatnashki\obj\Debug\Pyatnashki.Form15.resources
+D:\w\c#\Pyatnashki\obj\Debug\Pyatnashki.Properties.Resources.resources
+D:\w\c#\Pyatnashki\obj\Debug\Pyatnashki.csproj.GenerateResource.cache
+D:\w\c#\Pyatnashki\obj\Debug\Pyatnashki.exe
+D:\w\c#\Pyatnashki\obj\Debug\Pyatnashki.pdb
